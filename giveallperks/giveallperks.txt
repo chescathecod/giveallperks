@@ -1,4 +1,6 @@
-#giveallperks
+#Author: chescathecod
+#Description: This BAT file unlocks all perks in Starfield Bethesda. It should be placed in the installation directory of the game and executed via the console command using "bat giveallperks".
+#Disclaimer: Use this file responsibly. Altering game mechanics may affect your gaming experience. Use at your own risk.
 
 player.addperk 002C59DF
 player.addperk 002CE2DD
